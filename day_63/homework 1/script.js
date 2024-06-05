@@ -1,2 +1,0 @@
-// sololearn
-// object & Dot nonation

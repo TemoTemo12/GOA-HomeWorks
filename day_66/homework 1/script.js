@@ -1,1 +1,0 @@
-// sololearn-ში More on conditional statement-ის ჩათვლით
